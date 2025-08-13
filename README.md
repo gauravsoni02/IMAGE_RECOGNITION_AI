@@ -74,6 +74,7 @@ Upload an image to test predictions with the trained Cats vs. Dogs model.
 This project demonstrates my practical skills in deep learning, my ability to create reproducible ML pipelines, and my experience with industry-standard tools. I'm passionate about building and deploying impactful AI solutions.
 
 ## Contact
--Feel free to connect on LinkedIn
+-Feel free to connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gauravsoni02/)
+
 **Author:** Gaurav Soni 
 **Bootcamp:** Vision AI in 5 Days – DevTown
