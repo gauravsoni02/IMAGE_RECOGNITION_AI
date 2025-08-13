@@ -32,7 +32,7 @@ This repository contains my final project from the **Vision AI Bootcamp**, where
 ## 📦 How to Run
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/vision-ai-project.git
+git clone https://github.com/gauravsoni02/IMAGE_RECOGNITION_AI
 cd vision-ai-project
 
 # Open the notebook in Google Colab and run
@@ -43,5 +43,5 @@ Upload an image to test predictions with the trained Cats vs. Dogs model.
 ![Example Prediction](images/example_prediction.png)
 
 ---
-**Author:** Your Name  
+**Author:** Gaurav Soni 
 **Bootcamp:** Vision AI in 5 Days – DevTown
